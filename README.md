@@ -7,5 +7,5 @@
 - [ ] Profile data uploaded
 - [ ] Published
 ---
-## You can create your own, for more info visit:
-[JSON Resume Schema](https://jsonresume.org/schema]
+#### You can create your own, for more info visit:
+[JSON Resume Schema](https://jsonresume.org/schema)
