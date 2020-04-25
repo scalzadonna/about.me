@@ -242,14 +242,5 @@
       "language": "Catalan",
       "fluency": "Limited working proficiency"
     }
-  ],
-  "projects": [
-    {
-      "name": "Web Based Application [Proprietary Tool]",
-      "startDate": "Invalid date",
-      "summary": "-Development/ Enhancement of proprietary web based application/tool. The idea is to maximize the throughput and provide an efficient solution to redefine the approach of monitoring daily statistics and reports. -Continuously involved in providing enhancements to the tool to add wide variety of options to this tool.    Platform: .NET framework and built using MS Visual Studio. Implemention of Client-Server architecture using MVVM design pattern, provide data-binding and separation of Graphical User Interface and Business Logic.  Development using CSHTML/JavaScript Libraries such as jQuery, Knockout.js and Kendo UI Framework. Use of Entity Framework/AutoMapper along with LINQ to provide mapping of data to/from databases.",
-      "url": "",
-      "endDate": "Invalid date"
-    }
   ]
 }

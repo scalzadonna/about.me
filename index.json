@@ -1,24 +1,25 @@
 {
   "basics": {
-    "name": "Santi Scalzadonna",
-    "label": "DevOps Engineer",
+    "name": "Santiago Scalzadonna",
     "picture": "https://blog.santiscalzadonna.com/images/santee.png",
     "email": "sscalzadonna@gmail.com",
-    "phone": "+34 666-4321",
-    "website": "http://santiscalzadonna.com",
-    "summary": "A brief summary about...",
+    "phone": "+34 666 254123",
+    "website": "https://www.santiscalzadonna.com",
+    "summary": "During my 15 years of experience in software and web development, I’ve worked with several companies, from enterprise-level to startups.  Being part of teams spread over the globe I had the opportunity to learn from great people and develop soft skills like communication, mediation and negotiation. I am keen on learning from pioneers and experts in the field, and teaching what I know to my colleagues and peers.  As part of my career advancement, I’ve developed a strong LEAN based culture for product development, delivering outstanding results, always accountable to the plan, scope and quality.  Over the past years, I’ve adquired professional experience designing, building and maintaining enterprise wide large applications as well as many and webs and ecommerce sites for diverse industries such as education, transportation, IT, telecommunications and retails.  At the moment I’m integrating past experiences with an eye on latest trends, towards a post degree in Data Science, integrating data insights using statistical tools: R language and related libraries into beautiful and interactive web based data visualizations.  Last, but not least, I’m always looking forward to create and deliver value and profit for the good of people and planet earth. I had developed a passionate entrepreneurial spirit related to nature and travel, focused on the concepts of the sharing economy and green alternatives & solutions.",
     "location": {
-      "address": "Nou de la Rambla 21",
+      "address": "Barcelona, Spain",
       "postalCode": "08001",
       "city": "Barcelona",
       "countryCode": "ES",
       "region": "Catalonia"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "santidescalzo",
-      "url": "http://twitter.com/santidescalzo"
-    }]
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "scalzadonna",
+        "url": "https://twitter.com/santidescalzo"
+      }
+    ]
   },
  "work": [
     {
@@ -151,15 +152,15 @@
       "institution": "The University of Texas at Austin",
       "area": "",
       "studyType": "Data Visualization for Storytelling and Discovery",
-      "startDate": "Invalid date",
+      "startDate": "2018-07-01",
       "gpa": "",
       "courses": [],
-      "endDate": "Invalid date"
+      "endDate": "2018-10-01"
     },
     {
       "institution": "The Open University",
       "area": "",
-      "studyType": "",
+      "studyType": "Data Visualization",
       "startDate": "2017-01-01",
       "gpa": "",
       "courses": [],
