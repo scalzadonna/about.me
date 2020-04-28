@@ -216,5 +216,27 @@
       "courses": [],
       "endDate": "2010-01-01"
     }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Limited working proficiency"
+    }
   ]
 }
