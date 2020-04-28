@@ -4,7 +4,7 @@
 
 - [x] Repo created
 - [x] Schema uploaded
-- [ ] Profile data uploaded
+- [x] Profile data uploaded
 - [ ] Published
 ---
  Preliminary version: [JSON Resume from gist](https://registry.jsonresume.org/scalzadonna)

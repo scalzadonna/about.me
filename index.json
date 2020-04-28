@@ -3,9 +3,9 @@
     "name": "Santiago Scalzadonna",
     "picture": "https://blog.santiscalzadonna.com/images/santee.png",
     "email": "sscalzadonna@gmail.com",
-    "phone": "+34 666 254123",
+    "phone": "+34 666 66 66 66",
     "website": "https://www.santiscalzadonna.com",
-    "summary": "During my 15 years of experience in software and web development, I’ve worked with several companies, from enterprise-level to startups.  Being part of teams spread over the globe I had the opportunity to learn from great people and develop soft skills like communication, mediation and negotiation. I am keen on learning from pioneers and experts in the field, and teaching what I know to my colleagues and peers.  As part of my career advancement, I’ve developed a strong LEAN based culture for product development, delivering outstanding results, always accountable to the plan, scope and quality.  Over the past years, I’ve adquired professional experience designing, building and maintaining enterprise wide large applications as well as many and webs and ecommerce sites for diverse industries such as education, transportation, IT, telecommunications and retails.  At the moment I’m integrating past experiences with an eye on latest trends, towards a post degree in Data Science, integrating data insights using statistical tools: R language and related libraries into beautiful and interactive web based data visualizations.  Last, but not least, I’m always looking forward to create and deliver value and profit for the good of people and planet earth. I had developed a passionate entrepreneurial spirit related to nature and travel, focused on the concepts of the sharing economy and green alternatives & solutions.",
+    "summary": "During my 15 years of experience in software and web development, I’ve worked for many companies ranging from enterprise-level to startups. As part of my career advancement, I’ve developed a strong LEAN based culture for product development, delivering outstanding results, always accountable to the plan, scope and quality. I’m always looking forward to create and deliver value and profit for the good of people and planet earth. I had developed a passionate entrepreneurial spirit related to nature and travel, focused on the concepts of the sharing economy and green alternatives & solutions.",
     "location": {
       "address": "Barcelona, Spain",
       "postalCode": "08001",
@@ -18,31 +18,27 @@
         "network": "Twitter",
         "username": "scalzadonna",
         "url": "https://twitter.com/santidescalzo"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sscalzadonna",
+        "url": "https://linkedin.com/in/sscalzadonna"
       }
     ]
   },
  "work": [
     {
       "company": "YouBIM",
-      "position": "Head of DevOps",
-      "website": "",
-      "startDate": "2020-01-01",
+      "position": "DevOps Engineer",
+      "website": "https://www.youbim.com/",
+      "startDate": "2019-08-01",
       "summary": "",
       "highlights": []
     },
     {
       "company": "YouBIM",
-      "position": "DevOps Engineer",
-      "website": "",
-      "startDate": "2019-08-01",
-      "summary": "",
-      "highlights": [],
-      "endDate": "2020-01-01"
-    },
-    {
-      "company": "YouBIM",
       "position": "Site Reliability Engineer",
-      "website": "",
+      "website": "https://www.youbim.com/",
       "startDate": "2018-04-01",
       "summary": "",
       "highlights": []
@@ -50,7 +46,7 @@
     {
       "company": "YouBIM",
       "position": "Full Stack Engineer",
-      "website": "",
+      "website": "https://www.youbim.com/",
       "startDate": "2015-05-01",
       "summary": "Being part of YouBIM Dev Team I had the chance to work on its core product YouBIM Cloud as well as YouBIM Viewer and Integration Framework, which togheter form a BIM Facility Management system designed for large building constructors and owners.   YouBIM is an integrated database with instant access to asset information and location through an easy-to-navigate web-based 2D/3D-BIM interface.  YouBIM attaches rich data and documents [PDFs, JPGs, Excels, etc.] to smart objects within the online Building Information Model (BIM) dataset. In addition, YouBIM includes “light” Work Orders and Preventive Maintenance functionalities and it seamlessly integrates with CMMS and CAFM systems like IBM Maximo, Planon Software, ArchiBUS, Infor, etc. YouBIM can also integrate with BAS/BMS bringing live performance data to be displayed within the YouBIM environment.  The YouBIM User Interface differentiates itself from other solutions in the industry by designing the User Experience with focus on the Owner and facility staff.  Techstack: JS: Backbone, ES6, React, Redux, Typescript, WebGL Backend: PHP (Cake), Mysql/Aurora, C#, node, express. AWS: EC2/EBS/RDS/S3/VPC Build/Code Tools: gitflow, Jenkins. Artifactory Scrum Agile Methodologies",
       "highlights": [],
@@ -59,7 +55,7 @@
     {
       "company": "TradeHelm, Inc.",
       "position": "Data Visualization Designer and Developer",
-      "website": "",
+      "website": "https://tradehelm.com/",
       "startDate": "2015-03-01",
       "summary": "Design and development of data visualizations for ThinkCERCA.com, an online platform designed to empower teachers to personalize literacy instruction across disciplines.  Technologies: Ruby/Rails JS/Ember.js D3.js Bootstrap  About the company: ThinkCERCA is a web-based literacy program that scaffolds the development of critical thinking and argumentative writing skills for students in grades 3-12. The CERCA acronym (Claims, Evidence, Reasoning, Counterarguments, Audience) represents the site's structured approach to teaching critical thinking and argumentation, and both unpacking these elements in readings and using them in students' own writing is key to the site's learning experience.",
       "highlights": [],
@@ -86,7 +82,7 @@
     {
       "company": "Nexius",
       "position": "Front End Engineer - Java/Javascript",
-      "website": "",
+      "website": "https://www.nexius.com/",
       "startDate": "2013-07-01",
       "summary": "Design, architecture and development of several Java/.NET/JavaScript web projects, data visualizations and dashboards that they’ve used to optimize network usage and configuration, reduce costs, and provide a better service for its clients.   Among them:  Network Deployment Automation Technologies involved: .NET C# ASP MVC 4 jQuery HTML 5 Knockout.js KendoUI SQL Server 2008   Topology Visualization of LTE network Technologies involved: Java EE 6 Oracle 11i ArcGIS Javascript Dojo jQuery D3.js Bootstrap KendoUI  Tableau Server Reports Integration: Technologies involved: Tableau Server Java EE 6 Javascript Dojo Bootstrap  UNIX/Git/Jenkins/Tomcat Scrum/JIRA   About the company: Nexius is the leader in delivering end-to-end wireless services and software solutions to industries worldwide. The company’s over 500 dedicated professionals serve as subject matter experts, providing Technology Strategy, Network Services, and Software Solutions to many of today’s leading organizations. Nexius closely collaborates with their customers to deliver the strategic insight, proven experience, and practical knowledge necessary to transform their business through wireless.",
       "highlights": [],
@@ -95,7 +91,7 @@
     {
       "company": "Wicom",
       "position": "Java EE Engineering Consultant",
-      "website": "",
+      "website": "https://wicomcorp.com/",
       "startDate": "2013-07-01",
       "summary": "Architecture, design and deployment of several web applications. Desing and development of realtime data visualization tools to expand 4G wireless networks for telecommunication industry.",
       "highlights": [],
@@ -104,7 +100,7 @@
     {
       "company": "Motorola Mobility",
       "position": "Java EE 5 Developer",
-      "website": "",
+      "website": "https://www.motorola.com/us/about",
       "startDate": "2011-07-01",
       "summary": "Design and development of Core and Customer video solutions umbrella known as MEDIOS/Merchandiser.  Technologies involved: Java EE 6 SOAP/REST Webservices Spring Hibernate Oracle 11i Dojo ExtJS JBehave Selenium  UNIX/SVN/Git/Maven/Jenkins/Websphere  Motorola Medios Merchandiser is a component of the Medios solution that enables personalized infinite catalog marketing—including video, music, games and applications—across multiple screens, with an intelligent recommendation engine based on user preferences and prior transaction history.  Enhancing subscriber's browsing experience with personalized bundle marketing, encouraging impulse purchases and upgrades with targeted offers, pricing and discounts, service providers have a way to evolve and increase revenue with multi-screen marketing.",
       "highlights": [],
@@ -122,7 +118,7 @@
     {
       "company": "eSolutions SA",
       "position": "Java EE 5 Developer - System Integrations",
-      "website": "",
+      "website": "https://www.esolutions.com.ar/web/",
       "startDate": "2009-03-01",
       "summary": "Working for telecomunications industry, America Movil (AMX-Claro), in diverse projects related to Engineering/Legal/MKT departments. Integrating and geomapping Acquisition, Construction, Deployment, Configuration and Monitoring of 2G/3G sites/cells.  Technologies involved: Java EE 5 Spring Flex Hibernate Oracle MapInfo Selenium   Research in Groovy y Grails and rapid prototyping languages and tools.",
       "highlights": [],
@@ -131,7 +127,7 @@
     {
       "company": "QPlus Consultores SRL",
       "position": "Jave EE Developer - System Integrations",
-      "website": "",
+      "website": "http://www.qplusglobal.com/",
       "startDate": "2008-03-01",
       "summary": "Working on large scale Enterprise Information Systems (EIS), Enterprise Content Management (ECM) software, like EMC Documentum platform for managing the entire information lifecycle for Argentinian/Chilean companies in mining and quarrying industry.  Technologies involved: Java EE 5 Spring Hibernate REST/SOAP Web Services EMC Documentum JUnit  Linux/SVN/Apache Geronimo",
       "highlights": [],
@@ -140,7 +136,7 @@
     {
       "company": "EDS",
       "position": "Java EE  Developer",
-      "website": "",
+      "website": "https://www.dxc.technology/",
       "startDate": "2007-04-01",
       "summary": "Desing and development (enhancements/production support) in a High Performance Team for AACoRN in mission critical software pieces.  Responsible of day to day activities monitoring proceses and servers.  Took part in an initiative to define and automatize our development process applying Service Oriented paradigm  under IBM SOA umbrella.  Researcher in cutting edge technologies such as Appfuse, Groovy and Grails.   Projects:  AACoRN (Global reservation system for flight tickets)  Bagfinder (Track and control of bags lost in American Airlines flights).   Technologies involved:  Core: Java 5, J2EE, EJB, Hibernate, Spring, Struts and SABRE. IDE: Eclipse 3.3 and RAD.  Versioning: Accurev (Configuration Management Tools). App Servers: WebSphere 5.1 and Geronimo 1.1.  Defect tracker: JIRA",
       "highlights": [],
@@ -150,7 +146,7 @@
   "education": [
     {
       "institution": "The University of Texas at Austin",
-      "area": "",
+      "area": "Data Science",
       "studyType": "Data Visualization for Storytelling and Discovery",
       "startDate": "2018-07-01",
       "gpa": "",
@@ -159,7 +155,7 @@
     },
     {
       "institution": "The Open University",
-      "area": "",
+      "area": "Data Science",
       "studyType": "Data Visualization",
       "startDate": "2017-01-01",
       "gpa": "",
@@ -168,7 +164,7 @@
     },
     {
       "institution": "The University of Auckland",
-      "area": "",
+      "area": "Data Science",
       "studyType": "Introduction to Data Analysis",
       "startDate": "2017-01-01",
       "gpa": "",
@@ -177,7 +173,7 @@
     },
     {
       "institution": "DCE de Mundos E",
-      "area": "",
+      "area": "Business Administration",
       "studyType": "Diplomatura en Creacion de Empresas",
       "startDate": "2014-01-01",
       "gpa": "",
@@ -186,7 +182,7 @@
     },
     {
       "institution": "The University of Texas at Arlington",
-      "area": "",
+      "area": "Software engineering",
       "studyType": "Certificate in Digital Media Marketing",
       "startDate": "2013-01-01",
       "gpa": "",
@@ -195,7 +191,7 @@
     },
     {
       "institution": "Univerisad Empresarial Siglo 21",
-      "area": "",
+      "area": "Software engineering",
       "studyType": "Ingenieria en Software",
       "startDate": "2012-01-01",
       "gpa": "",
@@ -204,8 +200,8 @@
     },
     {
       "institution": "Universidad Nacional de Cordoba",
-      "area": "",
-      "studyType": "Associate’s Degree",
+      "area": "Business Administration",
+      "studyType": "Administracion y gestion de PyMEs",
       "startDate": "2008-01-01",
       "gpa": "",
       "courses": [],
@@ -213,8 +209,8 @@
     },
     {
       "institution": "Universidad Tecnológica Nacional",
-      "area": "",
-      "studyType": "Bachelor’s Degree",
+      "area": "Software engineering",
+      "studyType": "Analista en Sistemas",
       "startDate": "2004-01-01",
       "gpa": "",
       "courses": [],
