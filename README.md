@@ -7,8 +7,10 @@
 - [x] Profile data uploaded
 - [ ] Published
 ---
-### Preliminary version: 
+### Preliminary version:
+
+- [JSON Resume from gist](https://registry.jsonresume.org/scalzadonna)
+
 ---
-[JSON Resume from gist](https://registry.jsonresume.org/scalzadonna)
 #### You can create your own, for more info visit:
-[JSON Resume Schema](https://jsonresume.org/schema)
+- [JSON Resume Schema](https://jsonresume.org/schema)
