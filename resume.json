@@ -1,8 +1,9 @@
 {
   "basics": {
     "name": "Santiago Scalzadonna",
-    "picture": "https://blog.santiscalzadonna.com/images/santee.png",
-    "email": "sscalzadonna@gmail.com",
+    "label": "DevOps Engineer",
+    "picture": "https://santiscalzadonna.com/santee.jpg",
+    "email": "+email",
     "phone": "+telephone",
     "website": "https://www.santiscalzadonna.com",
     "summary": "I am a Software Engineer based in Barcelona, with over 20 years of experience in web and software development projects.",
@@ -23,198 +24,70 @@
         "network": "LinkedIn",
         "username": "sscalzadonna",
         "url": "https://linkedin.com/in/sscalzadonna"
+      },
+      {
+        "network": "github",
+        "username": "scalzadonna",
+        "url": "https://github.com/scalzadonna"
       }
     ]
   },
- "work": [
-    {
-      "company": "YouBIM",
-      "position": "DevOps Engineer",
-      "website": "https://www.youbim.com/",
-      "startDate": "2019-08-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "company": "YouBIM",
-      "position": "Site Reliability Engineer",
-      "website": "https://www.youbim.com/",
-      "startDate": "2018-04-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "company": "YouBIM",
-      "position": "Full Stack Engineer",
-      "website": "https://www.youbim.com/",
-      "startDate": "2015-05-01",
-      "summary": "Being part of YouBIM Dev Team I had the chance to work on its core product YouBIM Cloud as well as YouBIM Viewer and Integration Framework, which togheter form a BIM Facility Management system designed for large building constructors and owners.   YouBIM is an integrated database with instant access to asset information and location through an easy-to-navigate web-based 2D/3D-BIM interface.  YouBIM attaches rich data and documents [PDFs, JPGs, Excels, etc.] to smart objects within the online Building Information Model (BIM) dataset. In addition, YouBIM includes “light” Work Orders and Preventive Maintenance functionalities and it seamlessly integrates with CMMS and CAFM systems like IBM Maximo, Planon Software, ArchiBUS, Infor, etc. YouBIM can also integrate with BAS/BMS bringing live performance data to be displayed within the YouBIM environment.  The YouBIM User Interface differentiates itself from other solutions in the industry by designing the User Experience with focus on the Owner and facility staff.  Techstack: JS: Backbone, ES6, React, Redux, Typescript, WebGL Backend: PHP (Cake), Mysql/Aurora, C#, node, express. AWS: EC2/EBS/RDS/S3/VPC Build/Code Tools: gitflow, Jenkins. Artifactory Scrum Agile Methodologies",
-      "highlights": [],
-      "endDate": "2018-04-01"
-    },
-    {
-      "company": "TradeHelm, Inc.",
-      "position": "Data Visualization Designer and Developer",
-      "website": "https://tradehelm.com/",
-      "startDate": "2015-03-01",
-      "summary": "Design and development of data visualizations for ThinkCERCA.com, an online platform designed to empower teachers to personalize literacy instruction across disciplines.  Technologies: Ruby/Rails JS/Ember.js D3.js Bootstrap  About the company: ThinkCERCA is a web-based literacy program that scaffolds the development of critical thinking and argumentative writing skills for students in grades 3-12. The CERCA acronym (Claims, Evidence, Reasoning, Counterarguments, Audience) represents the site's structured approach to teaching critical thinking and argumentation, and both unpacking these elements in readings and using them in students' own writing is key to the site's learning experience.",
-      "highlights": [],
-      "endDate": "2015-11-01"
-    },
-    {
-      "company": "Independent",
-      "position": "Freelance Developer - Site Reliability and Maintenance",
-      "website": "",
-      "startDate": "2014-04-01",
-      "summary": "Enhance, maintain and interact in systems and websites based on popular CMS solutions like WordPress, Joomla, Nuke, Plone and eCommerce solutions tools as WooCommerce, Shopify, Magento and Prestashop among others. Design, code and package beautiful WordPress themes. I've also participated on support roles related to Web in topics like: UI/UX debates in teams, pairs, and solo. Search engine optimization and growth hacking. Digital Marketing and communications.",
-      "highlights": [],
-      "endDate": "2017-06-01"
-    },
-    {
-      "company": "Independent",
-      "position": "Analysis and Data Visualization Engineer",
-      "website": "",
-      "startDate": "2013-11-01",
-      "summary": "Developing insightful dashboards, infographics and data visualization tools for international clients in retail, transport, telecommunication and entertainment industries.",
-      "highlights": [],
-      "endDate": "2019-12-01"
-    },
-    {
-      "company": "Nexius",
-      "position": "Front End Engineer - Java/Javascript",
-      "website": "https://www.nexius.com/",
-      "startDate": "2013-07-01",
-      "summary": "Design, architecture and development of several Java/.NET/JavaScript web projects, data visualizations and dashboards that they’ve used to optimize network usage and configuration, reduce costs, and provide a better service for its clients.   Among them:  Network Deployment Automation Technologies involved: .NET C# ASP MVC 4 jQuery HTML 5 Knockout.js KendoUI SQL Server 2008   Topology Visualization of LTE network Technologies involved: Java EE 6 Oracle 11i ArcGIS Javascript Dojo jQuery D3.js Bootstrap KendoUI  Tableau Server Reports Integration: Technologies involved: Tableau Server Java EE 6 Javascript Dojo Bootstrap  UNIX/Git/Jenkins/Tomcat Scrum/JIRA   About the company: Nexius is the leader in delivering end-to-end wireless services and software solutions to industries worldwide. The company’s over 500 dedicated professionals serve as subject matter experts, providing Technology Strategy, Network Services, and Software Solutions to many of today’s leading organizations. Nexius closely collaborates with their customers to deliver the strategic insight, proven experience, and practical knowledge necessary to transform their business through wireless.",
-      "highlights": [],
-      "endDate": "2015-03-01"
-    },
-    {
-      "company": "Wicom",
-      "position": "Java EE Engineering Consultant",
-      "website": "https://wicomcorp.com/",
-      "startDate": "2013-07-01",
-      "summary": "Architecture, design and deployment of several web applications. Desing and development of realtime data visualization tools to expand 4G wireless networks for telecommunication industry.",
-      "highlights": [],
-      "endDate": "2014-05-01"
-    },
-    {
-      "company": "Motorola Mobility",
-      "position": "Java EE 5 Developer",
-      "website": "https://www.motorola.com/us/about",
-      "startDate": "2011-07-01",
-      "summary": "Design and development of Core and Customer video solutions umbrella known as MEDIOS/Merchandiser.  Technologies involved: Java EE 6 SOAP/REST Webservices Spring Hibernate Oracle 11i Dojo ExtJS JBehave Selenium  UNIX/SVN/Git/Maven/Jenkins/Websphere  Motorola Medios Merchandiser is a component of the Medios solution that enables personalized infinite catalog marketing—including video, music, games and applications—across multiple screens, with an intelligent recommendation engine based on user preferences and prior transaction history.  Enhancing subscriber's browsing experience with personalized bundle marketing, encouraging impulse purchases and upgrades with targeted offers, pricing and discounts, service providers have a way to evolve and increase revenue with multi-screen marketing.",
-      "highlights": [],
-      "endDate": "2013-07-01"
-    },
-    {
-      "company": "Independent",
-      "position": "Full Stack Engineer",
-      "website": "",
-      "startDate": "2011-02-01",
-      "summary": "Developing  web and apps for several industries using cutting edge technologies based on Open Web Standars technologies.  Among others: HTML5 / Boostrap / Foundation / Handlebars / Moustache jQuery / Underscore.js BackBone.js / Ember / Angular  Node.js / Meteor / MongoDB Rails / .NET / Java / PHP",
-      "highlights": [],
-      "endDate": "2019-08-01"
-    },
-    {
-      "company": "eSolutions SA",
-      "position": "Java EE 5 Developer - System Integrations",
-      "website": "https://www.esolutions.com.ar/web/",
-      "startDate": "2009-03-01",
-      "summary": "Working for telecomunications industry, America Movil (AMX-Claro), in diverse projects related to Engineering/Legal/MKT departments. Integrating and geomapping Acquisition, Construction, Deployment, Configuration and Monitoring of 2G/3G sites/cells.  Technologies involved: Java EE 5 Spring Flex Hibernate Oracle MapInfo Selenium   Research in Groovy y Grails and rapid prototyping languages and tools.",
-      "highlights": [],
-      "endDate": "2011-07-01"
-    },
-    {
-      "company": "QPlus Consultores SRL",
-      "position": "Jave EE Developer - System Integrations",
-      "website": "http://www.qplusglobal.com/",
-      "startDate": "2008-03-01",
-      "summary": "Working on large scale Enterprise Information Systems (EIS), Enterprise Content Management (ECM) software, like EMC Documentum platform for managing the entire information lifecycle for Argentinian/Chilean companies in mining and quarrying industry.  Technologies involved: Java EE 5 Spring Hibernate REST/SOAP Web Services EMC Documentum JUnit  Linux/SVN/Apache Geronimo",
-      "highlights": [],
-      "endDate": "2009-02-01"
-    },
-    {
-      "company": "EDS",
-      "position": "Java EE  Developer",
-      "website": "https://www.dxc.technology/",
-      "startDate": "2007-04-01",
-      "summary": "Desing and development (enhancements/production support) in a High Performance Team for AACoRN in mission critical software pieces.  Responsible of day to day activities monitoring proceses and servers.  Took part in an initiative to define and automatize our development process applying Service Oriented paradigm  under IBM SOA umbrella.  Researcher in cutting edge technologies such as Appfuse, Groovy and Grails.   Projects:  AACoRN (Global reservation system for flight tickets)  Bagfinder (Track and control of bags lost in American Airlines flights).   Technologies involved:  Core: Java 5, J2EE, EJB, Hibernate, Spring, Struts and SABRE. IDE: Eclipse 3.3 and RAD.  Versioning: Accurev (Configuration Management Tools). App Servers: WebSphere 5.1 and Geronimo 1.1.  Defect tracker: JIRA",
-      "highlights": [],
-      "endDate": "2008-02-01"
-    }
-  ],
   "education": [
     {
-      "institution": "The University of Texas at Austin",
-      "area": "Data Science",
-      "studyType": "Data Visualization for Storytelling and Discovery",
-      "startDate": "2018-07-01",
-      "gpa": "",
-      "courses": [],
-      "endDate": "2018-10-01"
-    },
-    {
-      "institution": "The Open University",
-      "area": "Data Science",
-      "studyType": "Data Visualization",
-      "startDate": "2017-01-01",
-      "gpa": "",
-      "courses": [],
-      "endDate": "2017-01-01"
-    },
-    {
-      "institution": "The University of Auckland",
-      "area": "Data Science",
-      "studyType": "Introduction to Data Analysis",
-      "startDate": "2017-01-01",
-      "gpa": "",
-      "courses": [],
-      "endDate": "2017-01-01"
+      "institution": "Univerisad Empresarial Siglo 21",
+      "area": "Software engineering",
+      "studyType": "Associate’s Degree in Software Engineering",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01"
     },
     {
       "institution": "DCE de Mundos E",
       "area": "Business Administration",
       "studyType": "Diplomatura en Creacion de Empresas",
       "startDate": "2014-01-01",
-      "gpa": "",
-      "courses": [],
       "endDate": "2015-01-01"
-    },
-    {
-      "institution": "The University of Texas at Arlington",
-      "area": "Software engineering",
-      "studyType": "Certificate in Digital Media Marketing",
-      "startDate": "2013-01-01",
-      "gpa": "",
-      "courses": [],
-      "endDate": "2013-01-01"
-    },
-    {
-      "institution": "Univerisad Empresarial Siglo 21",
-      "area": "Software engineering",
-      "studyType": "Ingenieria en Software",
-      "startDate": "2012-01-01",
-      "gpa": "",
-      "courses": [],
-      "endDate": "2015-01-01"
-    },
-    {
-      "institution": "Universidad Nacional de Cordoba",
-      "area": "Business Administration",
-      "studyType": "Administracion y gestion de PyMEs",
-      "startDate": "2008-01-01",
-      "gpa": "",
-      "courses": [],
-      "endDate": "2009-01-01"
     },
     {
       "institution": "Universidad Tecnológica Nacional",
       "area": "Software engineering",
-      "studyType": "Analista en Sistemas",
+      "studyType": "Associate’s Degree in Systems Engineering",
       "startDate": "2004-01-01",
-      "gpa": "",
-      "courses": [],
       "endDate": "2010-01-01"
+    },
+    {
+      "institution": "Universidad Nacional de Cordoba",
+      "area": "Business Administration",
+      "studyType": "Bachelor’s Degree in Business Administration for SME's",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01"
+    }
+    
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / CSS / Styled Components",
+        "Javascript / ECMA Script",
+        "backbone / Ember.js / React",
+        "Storybook / Cypress"
+      ],
+      "level": "Senior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Java / Node / PHP / Ruby",
+        "MySQL / Postgre / Oracle / MongoDB",
+        "httpd / nginx / docker",
+        "AWS / Heroku / Netifly"
+      ],
+      "level": "Senior",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["AWS", "CI-CD", "Ansible", "Jenkins"],
+      "level": "Semi Senior",
+      "name": "DevOps"
     }
   ],
   "languages": [
@@ -227,16 +100,225 @@
       "fluency": "Professional working proficiency"
     },
     {
-      "language": "Portuguese",
-      "fluency": "Limited working proficiency"
-    },
-    {
-      "language": "Italian",
-      "fluency": "Limited working proficiency"
-    },
-    {
       "language": "Catalan",
       "fluency": "Limited working proficiency"
+    }
+  ],
+  "work": [
+    {
+      "company": "YouBIM",
+      "position": "DevOps Engineer",
+      "website": "https://www.youbim.com/",
+      "startDate": "2019-08-01",
+      "summary": "",
+      "highlights": [
+        "Continuous Integration",
+        "Continuous Deployment / Delivery",
+        "Middleware: httpd / nginx / docker",
+        "Toolchain: JIRA / GitHub / Jenkins / Artifactory"
+      ]
+    },
+    {
+      "company": "YouBIM",
+      "position": "Site Reliability Engineer",
+      "website": "https://www.youbim.com/",
+      "startDate": "2018-04-01",
+      "summary": "",
+      "highlights": [
+        "Hybrid app supported on web and mobile platforms",
+        "Hosted on AWS servers",
+        "Middleware: hhtp, nginx, node and docker containers",
+        "AWS Cloud services: EC2 / RDS / S3 / CloudFront",
+        "Tools: git, grunt, npm, dockerhub"
+      ]
+    },
+    {
+      "company": "YouBIM",
+      "position": "Full Stack Engineer",
+      "website": "https://www.youbim.com/",
+      "startDate": "2015-05-01",
+      "summary": "",
+      "highlights": [
+        "Frontend: JavaScript: backbone, React, Redux, CSS in JS",
+        "Viewer and 3D: WebGL and Unity",
+        "Backend: PHP, .NET, express, Mysql, MariaDB"
+      ],
+      "endDate": "2018-04-01"
+    },
+    {
+      "company": "Independent",
+      "position": "Site Reliability and Maintenance",
+      "website": "",
+      "startDate": "2018-04-01",
+      "summary": "",
+      "highlights": [
+        "Maintenance and System administration:",
+        "Web sites, apps and ecommerce solutions",
+        "Deployments / Backups / Updates",
+        "httpd / nginx / tomcat / IIS",
+        "LAMP / linux / windows"
+      ],
+      "endDate": "2019-12-01"
+    },
+    {
+      "company": "Independent",
+      "position": "Full Stack Engineer",
+      "website": "",
+      "startDate": "2011-02-01",
+      "summary": "",
+      "highlights": [
+        "Web and apps development with open source",
+        "backbone.js / Ember.js / React",
+        "Java / PHP / Ruby / node.js",
+        "MySQL / Postgre / Oracle / MongoDB",
+        "AWS / Heroku / Netifly "
+      ],
+      "endDate": "2019-12-01"
+    },
+    {
+      "company": "Independent",
+      "position": "Freelance Web Developer",
+      "website": "",
+      "startDate": "2014-04-01",
+      "summary": "",
+      "highlights": [
+        "Maintenance and enhancement of websites and ecommerce systems",
+        "Digital Marketing and communications",
+        "UI/UX / SEO / growth hacking",
+        "WordPress / Joomla / Nuke / Plone",
+        "WooCommerce / Shopify / Magento / Prestashop"
+      ],
+      "endDate": "2017-06-01"
+    },
+    {
+      "company": "Independent",
+      "position": "Analysis and Data Visualization Engineer",
+      "website": "",
+      "startDate": "2013-11-01",
+      "summary": "",
+      "highlights": [
+        "Design and development of dashboards, infographics and data visualization tools",
+        "Data Analysis with open source technologies",
+        "R / InfoVis / D3.js / Tableau"
+      ],
+      "endDate": "2019-12-01"
+    },
+    {
+      "company": "TradeHelm, Inc.",
+      "position": "Data Visualization Designer and Developer",
+      "website": "https://tradehelm.com/",
+      "startDate": "2015-03-01",
+      "summary": "",
+      "highlights": [
+        "Design and development of data visualizations for ThinkCERCA.com",
+        "Ruby / Rails / Ember.js / D3.js"
+      ],
+      "endDate": "2015-11-01"
+    },
+    {
+      "company": "Nexius",
+      "position": "Front End Engineer - Java/Javascript",
+      "website": "https://www.nexius.com/",
+      "startDate": "2013-07-01",
+      "summary": "",
+      "highlights": [
+        "Design and development of web projects and data visualizations",
+        "HTML5 / jQuery / Knockout / KendoUI",
+        "Java / .NET / MVC 4",
+        "SQL Server 2008 / Tableau / ArcGIS"
+      ],
+      "endDate": "2015-03-01"
+    },
+    {
+      "company": "Wicom",
+      "position": "Java EE Engineering Consultant",
+      "website": "https://wicomcorp.com/",
+      "startDate": "2013-07-01",
+      "summary": "",
+      "highlights": [
+        "Architecture, design and deployment of web applications",
+        "Desing and development of data visualization tools to expand 4G wireless networks",
+        "HTML5 / JS / KendoUI / Infovis",
+        "Java EE / .NET",
+        "Oracle / Tableau / ArcGIS"
+      ],
+      "endDate": "2014-05-01"
+    },
+    {
+      "company": "Motorola Mobility",
+      "position": "Java EE 5 Developer",
+      "website": "https://www.motorola.com/us/about",
+      "startDate": "2011-07-01",
+      "summary": "",
+      "highlights": [
+        "Design and development of Core and Customer video solutions",
+        "ExtJS / Dojo / Selenium",
+        "Java EE 6 / Spring / Hibernate / Maven",
+        "IBM Websphere / Oracle / Jenkins"
+      ],
+      "endDate": "2013-07-01"
+    },
+    {
+      "company": "eSolutions SA",
+      "position": "Java EE 5 Developer - System Integrations",
+      "website": "https://www.esolutions.com.ar/web/",
+      "startDate": "2009-03-01",
+      "summary": "",
+      "highlights": [
+        "Projects related to Engineering/Legal/MKT departments",
+        "Integrating and geomapping construction, deployment and configuration",
+        "Also onitoring of 2G/3G sites/cells.",
+        "Java EE 5 / Spring / Hibernate",
+        "Oracle / MapInfo / Selenium"
+      ],
+      "endDate": "2011-07-01"
+    },
+    {
+      "company": "QPlus Consultores SRL",
+      "position": "Jave EE Developer - System Integrations",
+      "website": "http://www.qplusglobal.com/",
+      "startDate": "2008-03-01",
+      "summary": "",
+      "highlights": [
+        "Working on large scale EIS / ECM software: EMC Documentum",
+        "Document platform for companies in mining and quarrying",
+        "Java EE 5 / Spring / Hibernate",
+        "REST / SOAP / JUnit / EMC Documentum",
+        "Apache Geronimo / Linux"
+      ],
+      "endDate": "2009-02-01"
+    },
+    {
+      "company": "EDS",
+      "position": "Java EE  Developer",
+      "website": "https://www.dxc.technology/",
+      "startDate": "2007-04-01",
+      "summary": "",
+      "highlights": [
+        "Desing and development for American Airliness High Performance web projects:",
+        "AACoRN (Global reservation system for flight tickets)",
+        "Bagfinder (Track and control of bags lost in flights)",
+        "Responsible of day to day activities monitoring proceses and servers",
+        "Initiative to define and automatize our development process applying Service Oriented Architecture",
+        "Appfuse / Groovy / Grails",
+        "Java EE 5 / EJB / Hibernate / Spring",
+        "WebSphere / Geronimo / Linux"
+      ],
+      "endDate": "2008-02-01"
+    }
+  ],
+  "interests": [
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "System Administration"
+    },
+    {
+      "name": "CI-CD"
     }
   ]
 }
