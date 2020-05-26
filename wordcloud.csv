@@ -6,6 +6,8 @@ weight,word,color,url
 100,AWS,,
 80,Jenkins,,
 80,Artifactory,,
+80,Automation,,
+80,Provisioning,,
 80,Linux,,
 80,Ansible,,
 70,Front End,,

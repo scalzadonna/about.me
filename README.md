@@ -1,5 +1,7 @@
 # about.me : Santi Scalzadonna
 ---
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/scalzadonna/stack-experience)
+---
 ## JSON-friendly personal resume - CV
 
 - [x] Repo created
